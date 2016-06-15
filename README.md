@@ -1,2 +1,2 @@
 # imr-workshop-repo
-my first repository
+my first repository for imr workshop
